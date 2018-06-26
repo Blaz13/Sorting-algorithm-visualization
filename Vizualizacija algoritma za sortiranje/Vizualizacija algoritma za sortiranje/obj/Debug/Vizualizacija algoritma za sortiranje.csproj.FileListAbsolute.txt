@@ -1,0 +1,19 @@
+I:\C# programi\Programi\Vizualizacija algoritma za sortiranje\Vizualizacija algoritma za sortiranje\bin\Debug\Vizualizacija algoritma za sortiranje.exe.config
+I:\C# programi\Programi\Vizualizacija algoritma za sortiranje\Vizualizacija algoritma za sortiranje\bin\Debug\Vizualizacija algoritma za sortiranje.exe
+I:\C# programi\Programi\Vizualizacija algoritma za sortiranje\Vizualizacija algoritma za sortiranje\bin\Debug\Vizualizacija algoritma za sortiranje.pdb
+I:\C# programi\Programi\Vizualizacija algoritma za sortiranje\Vizualizacija algoritma za sortiranje\obj\Debug\Vizualizacija algoritma za sortiranje.csprojResolveAssemblyReference.cache
+I:\C# programi\Programi\Vizualizacija algoritma za sortiranje\Vizualizacija algoritma za sortiranje\obj\Debug\Vizualizacija_algoritma_za_sortiranje.Form1.resources
+I:\C# programi\Programi\Vizualizacija algoritma za sortiranje\Vizualizacija algoritma za sortiranje\obj\Debug\Vizualizacija_algoritma_za_sortiranje.Properties.Resources.resources
+I:\C# programi\Programi\Vizualizacija algoritma za sortiranje\Vizualizacija algoritma za sortiranje\obj\Debug\Vizualizacija algoritma za sortiranje.csproj.GenerateResource.Cache
+I:\C# programi\Programi\Vizualizacija algoritma za sortiranje\Vizualizacija algoritma za sortiranje\obj\Debug\Vizualizacija algoritma za sortiranje.exe
+I:\C# programi\Programi\Vizualizacija algoritma za sortiranje\Vizualizacija algoritma za sortiranje\obj\Debug\Vizualizacija algoritma za sortiranje.pdb
+H:\Filip\Programi\C# programi\Programi\Vizualizacija algoritma za sortiranje\Vizualizacija algoritma za sortiranje\bin\Debug\Vizualizacija algoritma za sortiranje.exe.config
+H:\Filip\Programi\C# programi\Programi\Vizualizacija algoritma za sortiranje\Vizualizacija algoritma za sortiranje\bin\Debug\Vizualizacija algoritma za sortiranje.exe
+H:\Filip\Programi\C# programi\Programi\Vizualizacija algoritma za sortiranje\Vizualizacija algoritma za sortiranje\bin\Debug\Vizualizacija algoritma za sortiranje.pdb
+H:\Filip\Programi\C# programi\Programi\Vizualizacija algoritma za sortiranje\Vizualizacija algoritma za sortiranje\obj\Debug\Vizualizacija algoritma za sortiranje.csprojResolveAssemblyReference.cache
+H:\Filip\Programi\C# programi\Programi\Vizualizacija algoritma za sortiranje\Vizualizacija algoritma za sortiranje\obj\Debug\Vizualizacija_algoritma_za_sortiranje.Form1.resources
+H:\Filip\Programi\C# programi\Programi\Vizualizacija algoritma za sortiranje\Vizualizacija algoritma za sortiranje\obj\Debug\Vizualizacija_algoritma_za_sortiranje.Properties.Resources.resources
+H:\Filip\Programi\C# programi\Programi\Vizualizacija algoritma za sortiranje\Vizualizacija algoritma za sortiranje\obj\Debug\Vizualizacija algoritma za sortiranje.csproj.GenerateResource.cache
+H:\Filip\Programi\C# programi\Programi\Vizualizacija algoritma za sortiranje\Vizualizacija algoritma za sortiranje\obj\Debug\Vizualizacija algoritma za sortiranje.csproj.CoreCompileInputs.cache
+H:\Filip\Programi\C# programi\Programi\Vizualizacija algoritma za sortiranje\Vizualizacija algoritma za sortiranje\obj\Debug\Vizualizacija algoritma za sortiranje.exe
+H:\Filip\Programi\C# programi\Programi\Vizualizacija algoritma za sortiranje\Vizualizacija algoritma za sortiranje\obj\Debug\Vizualizacija algoritma za sortiranje.pdb
